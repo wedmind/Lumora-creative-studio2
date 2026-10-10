@@ -26,7 +26,7 @@ body{
     justify-content: space-between;
     align-items: center;
     position: fixed;
-    width: 100vh;
+    width: 100vw;
     background: rgba(0,0,0,0.4);
     padding: 20px 8%;
     backdrop-filter: blur(10px);
@@ -78,8 +78,6 @@ body{
     transition: 1.2s ease;
     padding: 10px;
     font-weight: bold;
-    width: 20vw;
-
 }
 
 .btn a{
