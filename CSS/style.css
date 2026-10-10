@@ -78,7 +78,7 @@ body{
     transition: 1.2s ease;
     padding: 10px;
     font-weight: bold;
-    width: 30vw;
+    width: 40vw;
 
 }
 
@@ -115,7 +115,6 @@ body{
     url("../ASSET/hero.jpg");
     background-size: cover;
     background-position: center;
-    padding-top: 100px;
 }
 
 .hero-box {
