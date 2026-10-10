@@ -31,7 +31,7 @@ body{
     padding: 20px 8%;
     backdrop-filter: blur(10px);
     z-index: 1000;
-    height: 100px;
+    height: 150px;
 }
 
 .logo {
@@ -78,6 +78,8 @@ body{
     transition: 1.2s ease;
     padding: 10px;
     font-weight: bold;
+    width: 20vh;
+
 }
 
 .btn a{
@@ -113,13 +115,12 @@ body{
     url("../ASSET/hero.jpg");
     background-size: cover;
     background-position: center;
-    padding-top: 200px;
+    padding-top: 100px;
 }
 
 .hero-box {
     display: flex;
     flex-direction: column;
-    padding-top: 70px;
 }
 
 .hero h1{
