@@ -78,7 +78,7 @@ body{
     transition: 1.2s ease;
     padding: 10px;
     font-weight: bold;
-    width: 20vw;
+    width: 30vw;
 
 }
 
@@ -121,6 +121,7 @@ body{
 .hero-box {
     display: flex;
     flex-direction: column;
+    padding-top: 70px;
 }
 
 .hero h1{
